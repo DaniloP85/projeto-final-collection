@@ -1,0 +1,15 @@
+_id: env_b4499d141fa45b6722e325cc883d0618fafc784a
+type: Environment
+parentId: wrk_b6983db0175c49f4ae8d43a086edcd30
+modified: 1682559910972
+created: 1682554626925
+name: Base Environment
+data:
+  token: "{% response 'body', 'req_bf202183046c4e1d876ae731c37f584a',
+    'b64::JC5bImFjY2Vzc190b2tlbiJd::46b', 'when-expired', 60 %}"
+dataPropertyOrder:
+  "&":
+    - token
+color: null
+isPrivate: false
+metaSortKey: 1682554626925

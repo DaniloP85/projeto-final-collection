@@ -1,0 +1,31 @@
+_id: req_bf202183046c4e1d876ae731c37f584a
+type: Request
+parentId: fld_f102a10dcf1f4e719a8b66faaeb06727
+modified: 1682558970053
+created: 1682557729448
+url: https://dev-2zdtulpnb8jm1j8a.us.auth0.com/oauth/token
+name: Token
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"client_id": "w7j8IFUmyS2f6ZE3DLZwl13MiBlRoQbb",
+    	"client_secret": "dRaZY5c01x2B5NnMXxEp12U99Hs-MVeHvbTqo0jndhriHZm724z3jr84UVzzGpAc",
+    	"audience": "projeto-final",
+    	"grant_type": "client_credentials"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1682554657897.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

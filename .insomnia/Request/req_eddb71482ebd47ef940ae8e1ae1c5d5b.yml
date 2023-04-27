@@ -1,0 +1,29 @@
+_id: req_eddb71482ebd47ef940ae8e1ae1c5d5b
+type: Request
+parentId: fld_f102a10dcf1f4e719a8b66faaeb06727
+modified: 1682559996946
+created: 1682554657898
+url: http://localhost:3001/products
+name: products
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_1f7c14aecef84336aa45e3c6f86afd66
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  prefix: Bearer
+  token: "{{ _.token }}"
+  disabled: false
+metaSortKey: -1682554657898
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
