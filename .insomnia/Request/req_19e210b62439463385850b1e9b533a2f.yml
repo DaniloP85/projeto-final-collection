@@ -1,9 +1,9 @@
 _id: req_19e210b62439463385850b1e9b533a2f
 type: Request
 parentId: fld_f102a10dcf1f4e719a8b66faaeb06727
-modified: 1682560039426
+modified: 1682745082653
 created: 1682554657894
-url: http://localhost:3001/products/acfda577-c36e-465d-9984-2ad98b7f642c
+url: https://localhost:3001/products/5b5f3a67-7d49-40b3-a707-c8f9825e4782
 name: products/:id
 description: ""
 method: PUT
@@ -11,9 +11,9 @@ body:
   mimeType: ""
   text: |-
     {
-        "name": "Produto XPTO",
-        "description": "Meu produto de teste de API atualizado",
-        "value": 200
+        "name": "OK DPSNQMK :",
+        "description": "dpsnqmk",
+        "value": 20000
     }
 parameters: []
 headers:

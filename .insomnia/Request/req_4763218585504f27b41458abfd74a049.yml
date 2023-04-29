@@ -1,9 +1,9 @@
 _id: req_4763218585504f27b41458abfd74a049
 type: Request
 parentId: fld_f102a10dcf1f4e719a8b66faaeb06727
-modified: 1682560049134
+modified: 1682745094553
 created: 1682554657871
-url: http://localhost:3001/products/acfda577-c36e-465d-9984-2ad98b7f642c
+url: https://localhost:3001/products/5b5f3a67-7d49-40b3-a707-c8f9825e4782
 name: products/:id
 description: ""
 method: DELETE

@@ -1,19 +1,19 @@
 _id: req_10ae754e9c414cbcba4be3da57b350f3
 type: Request
 parentId: fld_f102a10dcf1f4e719a8b66faaeb06727
-modified: 1682560024264
+modified: 1682745067793
 created: 1682554657895
-url: http://localhost:3001/products
+url: https://localhost:3001/products
 name: products
 description: ""
 method: POST
 body:
-  mimeType: ""
+  mimeType: application/json
   text: |-
     {
-        "name": "Produto XPTO",
-        "description": "Meu produto de teste de API",
-        "value": 200
+        "name": "mais um u",
+        "description": "Teclado dpsnqmk",
+        "value": 90000
     }
 parameters: []
 headers:
